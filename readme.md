@@ -52,7 +52,7 @@ Stop coding for a secs, and shake your body for 15 minutes to get healthy.
 
 # Who is 9r3i?
 
-9r3i is similiar to grey, means my former name is grey montgoméry. Now known as Abu Ayyub a.k.a. Luthfie Al Anshary. Nobody, he is absolutely nobody. Alhamdulillaah...
+9r3i is similiar to grey, means his former name is grey montgoméry. Now known as Abu Ayyub a.k.a. Luthfie Al Ansháry. Nobody, he is absolutely nobody. Alhamdulillaah...
 
 
 

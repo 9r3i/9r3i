@@ -1,5 +1,16 @@
 # 9r3i
 
+My name is Abu Ayyub, I currently work as freelancer, writing codes in my smartphone, because all of my laptops are broken, but it doesn't matter anymore as long as I love to write codes.
+
+My phone has helped me write [Force](https://github.com/9r3i/force) library and all its apps, such as [ForceWebsite](https://github.com/9r3i/force-website), including its themes, kitchen, plugins and the other libraries since January 2022 when my laptops are out of service.
+
+The funny thing is, that I write a lot of javascript library without javascript console. Unlike on desktop browser that has console to test and see what happens in background or just views some error log etcetera. Except for writing NodeJS modules, I can see the console log upon Termux CLI console.
+
+But that's alright as long as I love to write codes. Just grateful to Allah SWT. Alhamdulillaah...
+
+
+## Stats
+
 [![9r3i Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9r3i&theme=github)](https://github.com/9r3i)
 
 [![9r3i Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9r3i&theme=github)](https://github.com/9r3i)

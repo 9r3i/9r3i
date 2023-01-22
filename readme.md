@@ -33,7 +33,7 @@ But that's alright as long as I love to write codes. Just grateful to Allah SWT.
 
 [![9r3i shakes](https://raw.githubusercontent.com/9r3i/9r3i/master/geboy.webp)](https://github.com/9r3i)
 
-Stop coding for a secs, and shake your body for 15 minutes to get healthy.
+Stop coding for a sec, and shake your body for 15 minutes to get healthy.
 
 
 

@@ -1,12 +1,6 @@
 # 9r3i
 
-My name is Abu Ayyub, I currently work as freelancer, writing codes and commit repos from my smartphone, because all of my laptops are broken, haha 😅, but it doesn't matter anymore as long as I love to write codes.
-
-My phone has helped me write [Force](https://github.com/9r3i/force) library and all its apps, such as [ForceWebsite](https://github.com/9r3i/force-website), including its themes, kitchen, plugins and the other libraries since January 2022 when my laptops are out of service.
-
-The funny thing is that I write a lot of javascript library without javascript console 😅. Unlike on desktop browser that has console to test and see what happens in background or just views some error log etcetera. Except for writing NodeJS modules, I can see the console log upon Termux CLI console.
-
-But that's alright as long as I love to write codes. Just grateful to Allah SWT. Alhamdulillaah...
+Hi, my name is Niner, I'm nobody.
 
 
 ## Stats
@@ -29,13 +23,6 @@ But that's alright as long as I love to write codes. Just grateful to Allah SWT.
 
 
 
-# Shake your body
-
-[![9r3i shakes](https://raw.githubusercontent.com/9r3i/9r3i/master/geboy.webp)](https://github.com/9r3i)
-
-Stop coding for a sec, and shake your body for 15 minutes to get healthy.
-
-
 
 # Badges
 
@@ -51,7 +38,7 @@ Stop coding for a sec, and shake your body for 15 minutes to get healthy.
 
 # Who is 9r3i?
 
-9r3i is similiar to grey, means his former name is grey montgoméry. Now known as Abu Ayyub a.k.a. Luthfie Al Ansháry. Nobody, he is absolutely nobody. Alhamdulillaah...
+Nobody, he is absolutely nobody.
 
 
 

@@ -9,7 +9,7 @@ Hi, my name is Niner, I'm nobody.
 
 [![9r3i Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9r3i&theme=github)](https://github.com/9r3i)
 
-[![9r3i Contributions](https://streak-stats.demolab.com/?user=9r3i&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/9r3i)
+[![9r3i Contributions](https://streak-stats.demolab.com/?user=9r3i)](https://github.com/9r3i)
 
 [![9r3i Contributions](http://github-readme-streak-stats.herokuapp.com/?user=9r3i&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/9r3i)
 
